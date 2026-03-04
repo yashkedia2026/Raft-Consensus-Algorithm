@@ -77,7 +77,6 @@ Does not include:
 - Log compaction/snapshots
 - Cluster membership changes
 - Batched AppendEntries
-- Persistent storage / crash recovery
 
 ## Resources
 - Raft Paper - Original consensus algorithm
